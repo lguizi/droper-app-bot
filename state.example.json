@@ -1,0 +1,15 @@
+{
+  "lastUpdate": null,
+  "drops": [
+    {
+      "dropId": "DROP_EXEMPLO_001",
+      "productId": "PRODUTO_EXEMPLO_123",
+      "price": 0,
+      "active": false
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "environment": "example"
+  }
+}
