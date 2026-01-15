@@ -1,0 +1,28 @@
+[
+  {
+    "domain": ".exemplo.com",
+    "expirationDate": 1999999999,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "session_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "EXAMPLE_SESSION_TOKEN"
+  },
+  {
+    "domain": ".exemplo.com",
+    "expirationDate": 1999999999,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "user_preferences",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "dark_mode=true"
+  }
+]
