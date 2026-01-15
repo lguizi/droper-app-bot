@@ -1,0 +1,11 @@
+{
+  "name": "droper-bot",
+  "version": "1.0.0",
+  "main": "droper-v7-beta.js",
+  "scripts": {
+    "start": "node droper-v7-beta.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
